@@ -13,7 +13,7 @@ The goal of the assignment was pretty simple. **Draw a car**. *Oh, okay. Wait, s
 
 I'm going to provide a link so you can get a visual representation of what was done in the assignment.
 
-[Take a look](http://htmlpreview.github.io/?https://github.com/pkim92/BCIT-School-Project-Canvas/blob/master/index.html)
+[Take a look](https://pkim92.github.io/BCIT-School-Project-Canvas/)
 
 Yes, I had a partner. He is an awesome guy named Sham. Anyways, the car is obviously not perfect and barely passes the 2D / 3D barrier with no background, but creating that single car alone took ~**390 lines of code.** All that code in a single `drawCar()` function.. I messed up during the production and had to re-write a lot of the codes, but I had not expected that much work for that simple car.
 The smoke's credit goes to **Sham**, and together we achieved a high grade for this assignment. 
